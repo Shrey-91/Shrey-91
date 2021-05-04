@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrey-91 - Shrey Rajagopal
-- 👀 I’m interested in ... Python3, MySQL, IT Automation
-- 🌱 I’m currently learning ... Automation using Python
+- 👀 I’m interested in ... Python3, MySQL, Automation Software
+- 🌱 I’m currently learning ... IT Automation using Python
 - 📫 How to reach me ... shreyasrajg@gmail.com
 
 <!---
